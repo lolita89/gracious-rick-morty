@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/gracious-rick-morty/static/css/main.5f361e03.chunk.css",
-    "main.js": "/gracious-rick-morty/static/js/main.b365f701.chunk.js",
-    "main.js.map": "/gracious-rick-morty/static/js/main.b365f701.chunk.js.map",
+    "main.css": "/gracious-rick-morty/static/css/main.a3e3b858.chunk.css",
+    "main.js": "/gracious-rick-morty/static/js/main.7f23beff.chunk.js",
+    "main.js.map": "/gracious-rick-morty/static/js/main.7f23beff.chunk.js.map",
     "runtime-main.js": "/gracious-rick-morty/static/js/runtime-main.6d504834.js",
     "runtime-main.js.map": "/gracious-rick-morty/static/js/runtime-main.6d504834.js.map",
-    "static/js/2.693b568a.chunk.js": "/gracious-rick-morty/static/js/2.693b568a.chunk.js",
-    "static/js/2.693b568a.chunk.js.map": "/gracious-rick-morty/static/js/2.693b568a.chunk.js.map",
+    "static/css/2.6414bb7b.chunk.css": "/gracious-rick-morty/static/css/2.6414bb7b.chunk.css",
+    "static/js/2.595e5b55.chunk.js": "/gracious-rick-morty/static/js/2.595e5b55.chunk.js",
+    "static/js/2.595e5b55.chunk.js.map": "/gracious-rick-morty/static/js/2.595e5b55.chunk.js.map",
     "index.html": "/gracious-rick-morty/index.html",
-    "precache-manifest.e1ef736233bc42f53e6b5882a2cfe946.js": "/gracious-rick-morty/precache-manifest.e1ef736233bc42f53e6b5882a2cfe946.js",
+    "precache-manifest.ce4d4b32b5393b1e83497412fae5fb99.js": "/gracious-rick-morty/precache-manifest.ce4d4b32b5393b1e83497412fae5fb99.js",
     "service-worker.js": "/gracious-rick-morty/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/gracious-rick-morty/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.693b568a.chunk.js.LICENSE.txt": "/gracious-rick-morty/static/js/2.693b568a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/gracious-rick-morty/static/media/logo.5d5d9eef.svg"
+    "static/css/2.6414bb7b.chunk.css.map": "/gracious-rick-morty/static/css/2.6414bb7b.chunk.css.map",
+    "static/css/main.a3e3b858.chunk.css.map": "/gracious-rick-morty/static/css/main.a3e3b858.chunk.css.map",
+    "static/js/2.595e5b55.chunk.js.LICENSE.txt": "/gracious-rick-morty/static/js/2.595e5b55.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d504834.js",
-    "static/js/2.693b568a.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b365f701.chunk.js"
+    "static/css/2.6414bb7b.chunk.css",
+    "static/js/2.595e5b55.chunk.js",
+    "static/css/main.a3e3b858.chunk.css",
+    "static/js/main.7f23beff.chunk.js"
   ]
 }
