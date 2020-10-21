@@ -1,11 +1,11 @@
 import React from 'react';
-import CharacterList from './components/CharacterList';
+import RickAndMortyPage from './components/RickAndMortyPage';
 import { Route } from 'react-router-dom';
 
 export default function App() {
   return (
   <main>
-      <Route path="" component={CharacterList} />
+      <Route path="" component={RickAndMortyPage} />
   </main>
   );
 }
