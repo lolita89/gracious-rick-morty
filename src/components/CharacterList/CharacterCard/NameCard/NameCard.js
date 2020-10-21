@@ -4,9 +4,14 @@ import "../../../../styles/character-list.scss";
 
 export default class NameCard extends React.Component {
   render() {
+
+    function handleClick(e) {
+        window.location.href=`https://www.youtube.com/results?search_query=${e.target.innerHTML}%20rick%20and%20morty`;
+      }
+
     return (
       <Card.Body>
-        <Card.Title className="title-name">{this.props.name}</Card.Title>
+        <Card.Title href="#" className="title-name" onClick={handleClick}>{this.props.name}</Card.Title>
       </Card.Body>
     );
   }

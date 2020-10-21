@@ -3,4 +3,9 @@
 //CharacterCard
 .title-name {
   color: $dark-color;
+  cursor: pointer;
+}
+
+.title-name:hover {
+  color: $medium-color;
 }
