@@ -4,19 +4,15 @@ import Title from "./Title/Title";
 import CharacterList from "./CharacterList/CharacterList";
 
 import { Container } from "react-bootstrap";
-import "../styles/character-list.scss";
-
+import "../styles/rickandmorty-page.scss";
 
 export default class RickAndMortyPage extends React.Component {
-  state = {
-  };
-
   render() {
     return (
-      <section className="character-list">
+      <section className="main-page">
         <Container>
-            <Title/>
-            <CharacterList/>
+          <Title />
+          <CharacterList />
         </Container>
       </section>
     );

@@ -16,7 +16,6 @@ export default class CharacterList extends React.Component {
       .then((res) => {
         const characters = res.data.results;
         this.setState({ characters });
-        console.log("RESPONSES", this.state.characters);
       })
       .catch((error) => {
         console.log(error);

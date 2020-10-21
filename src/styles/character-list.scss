@@ -1,9 +1,6 @@
-$light-color: #97ce4c;
-$medium-color: #e4a788;
-$dark-color: #44281d;
-$pink-color: #e89ac7;
+@import './variables.scss';
 
-.character-list{
-  background-color: $pink-color;
-  font-family: Marker Felt, fantasy;
+//CharacterCard
+.title-name {
+  color: $dark-color;
 }
