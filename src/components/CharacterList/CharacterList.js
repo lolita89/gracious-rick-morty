@@ -1,8 +1,9 @@
 import React from "react";
 import axios from "axios";
-import CharacterCard from "./CharacterCard";
+import CharacterCard from "./CharacterCard/CharacterCard";
 import { Row } from "react-bootstrap";
-import "../styles/character-list.scss";
+import "../../styles/character-list.scss";
+
 
 export default class CharacterList extends React.Component {
   state = {

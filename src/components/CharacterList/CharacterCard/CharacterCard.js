@@ -5,7 +5,7 @@ import {
   ListGroupItem,
   Col,
 } from "react-bootstrap";
-import "../styles/character-card.scss";
+import "../../../styles/character-card.scss";
 
 export default function CharacterCard(props) {
   return (
