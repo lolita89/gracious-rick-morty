@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gracious-rick-morty/static/css/main.13d8a47e.chunk.css",
-    "main.js": "/gracious-rick-morty/static/js/main.dc4795eb.chunk.js",
-    "main.js.map": "/gracious-rick-morty/static/js/main.dc4795eb.chunk.js.map",
+    "main.css": "/gracious-rick-morty/static/css/main.0fbe22cb.chunk.css",
+    "main.js": "/gracious-rick-morty/static/js/main.b1888b15.chunk.js",
+    "main.js.map": "/gracious-rick-morty/static/js/main.b1888b15.chunk.js.map",
     "runtime-main.js": "/gracious-rick-morty/static/js/runtime-main.6d504834.js",
     "runtime-main.js.map": "/gracious-rick-morty/static/js/runtime-main.6d504834.js.map",
     "static/css/2.6414bb7b.chunk.css": "/gracious-rick-morty/static/css/2.6414bb7b.chunk.css",
-    "static/js/2.41c1d5ad.chunk.js": "/gracious-rick-morty/static/js/2.41c1d5ad.chunk.js",
-    "static/js/2.41c1d5ad.chunk.js.map": "/gracious-rick-morty/static/js/2.41c1d5ad.chunk.js.map",
+    "static/js/2.b6e59f9f.chunk.js": "/gracious-rick-morty/static/js/2.b6e59f9f.chunk.js",
+    "static/js/2.b6e59f9f.chunk.js.map": "/gracious-rick-morty/static/js/2.b6e59f9f.chunk.js.map",
     "index.html": "/gracious-rick-morty/index.html",
-    "precache-manifest.f5f747b998608880f0f000540eafabad.js": "/gracious-rick-morty/precache-manifest.f5f747b998608880f0f000540eafabad.js",
+    "precache-manifest.abb36a044a1904bb8f0f716cfc51a972.js": "/gracious-rick-morty/precache-manifest.abb36a044a1904bb8f0f716cfc51a972.js",
     "service-worker.js": "/gracious-rick-morty/service-worker.js",
     "static/css/2.6414bb7b.chunk.css.map": "/gracious-rick-morty/static/css/2.6414bb7b.chunk.css.map",
-    "static/css/main.13d8a47e.chunk.css.map": "/gracious-rick-morty/static/css/main.13d8a47e.chunk.css.map",
-    "static/js/2.41c1d5ad.chunk.js.LICENSE.txt": "/gracious-rick-morty/static/js/2.41c1d5ad.chunk.js.LICENSE.txt"
+    "static/css/main.0fbe22cb.chunk.css.map": "/gracious-rick-morty/static/css/main.0fbe22cb.chunk.css.map",
+    "static/js/2.b6e59f9f.chunk.js.LICENSE.txt": "/gracious-rick-morty/static/js/2.b6e59f9f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d504834.js",
     "static/css/2.6414bb7b.chunk.css",
-    "static/js/2.41c1d5ad.chunk.js",
-    "static/css/main.13d8a47e.chunk.css",
-    "static/js/main.dc4795eb.chunk.js"
+    "static/js/2.b6e59f9f.chunk.js",
+    "static/css/main.0fbe22cb.chunk.css",
+    "static/js/main.b1888b15.chunk.js"
   ]
 }
