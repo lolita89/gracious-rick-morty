@@ -1,8 +1,6 @@
 import React from "react";
 import { Card, Col } from "react-bootstrap";
-import ImageCard from "./ImageCard/ImageCard";
-import NameCard from "./NameCard/NameCard";
-import ListCard from "./ListCard/ListCard";
+import {ImageCard, NameCard, ListCard} from "../CharacterCard";
 
 export default class CharacterCard extends React.Component {
   render() {

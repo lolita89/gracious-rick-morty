@@ -3,9 +3,12 @@ import { Container } from "react-bootstrap";
 import "../../styles/title.scss";
 
 export default class RickAndMortyPage extends React.Component {
-  state = {
-    title: 'Welcome to Gracious Rick and Morty La La Land',
-  };
+  constructor(props) {
+    super(props);
+    this.state = {
+      title: "Welcome to Gracious Rick and Morty La La Land",
+    };
+  }
 
   render() {
     return (
