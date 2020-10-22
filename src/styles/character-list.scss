@@ -9,3 +9,27 @@
 .title-name:hover {
   color: $medium-color;
 }
+
+//CharacterSearchBox
+.wrapper {
+  margin: 30pt auto;
+  position: relative;
+  display: flex;
+}
+
+.search-icon {
+  position: absolute;
+  top: 20px;
+  left: 8px;
+  width: 14px;
+  color: $light-color;
+}
+
+.input-text {
+  margin: 5px;
+  padding: 10px 20px;
+}
+
+.input-text[type=text] {
+  color: $dark-color;
+}
