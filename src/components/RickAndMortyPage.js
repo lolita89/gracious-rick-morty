@@ -1,9 +1,7 @@
 import React from "react";
-//children components
+import { Container } from "react-bootstrap";
 import Title from "./Title/Title";
 import CharacterList from "./CharacterList/CharacterList";
-
-import { Container } from "react-bootstrap";
 import "../styles/rickandmorty-page.scss";
 
 export default class RickAndMortyPage extends React.Component {
