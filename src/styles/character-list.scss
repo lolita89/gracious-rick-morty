@@ -30,6 +30,11 @@
   padding: 10px 20px;
 }
 
+.input-text:focus {
+  outline: 3px solid $light-color;
+}
+
 .input-text[type=text] {
   color: $dark-color;
+  border: 3px solid $medium-color;
 }
